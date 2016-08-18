@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I launched this site"
+title: I launched this site
 date: 2016-08-18
 ---
 
