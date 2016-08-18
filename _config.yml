@@ -1,3 +1,2 @@
-permalink: /blog/:year/:month/:day/:title
-markdown: kramdown
-name: Fernando D. Espinosa
+permalink:/blog/:year/:month/:day/:title
+markdown:kramdown
