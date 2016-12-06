@@ -1,1 +1,3 @@
-# my website, all about me and my things I do.
+# Personal Site
+
+Written in html, css, and javascript
