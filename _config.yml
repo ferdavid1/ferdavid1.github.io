@@ -1,2 +1,8 @@
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
+
+title: ferdavid1.GitHub.io
+description: my personal website
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
